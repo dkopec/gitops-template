@@ -1,4 +1,4 @@
-# tf-cloud-template
+# GitOps Template
 
 [Edit Diagram](https://app.diagrams.net/#Hdkopec%2Fgitops-template%2Fmain%2Fgitops-workflow.drawio)
 
